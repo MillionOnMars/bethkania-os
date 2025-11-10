@@ -1,0 +1,62 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (for future Copilot implementation)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+.env
+.env.local
+
+# Python (if we build tools in Python)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Private/sensitive (even though we're transparent, some things shouldn't be in git)
+secrets.json
+*.key
+*.pem
+.secrets/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Documentation builds
+docs/_build/
+site/
