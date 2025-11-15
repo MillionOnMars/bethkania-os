@@ -67,6 +67,9 @@ Run every decision through these filters. Pass 3+ to proceed:
 - [QUICK_START.md](QUICK_START.md) - 1-page TL;DR
 - [CHANGELOG.md](CHANGELOG.md) - Version history
 
+### Case Studies
+- [Bike4Mind: The Mu Architecture](case-studies/bike4mind-mu-architecture.md) - How B4M embodies "Own the Brain, Rent the Muscles" strategy for hyperscaler independence
+
 ### Guides *(coming soon)*
 - Decision-making guide
 - Conflict resolution
